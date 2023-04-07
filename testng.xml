@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Raghavendra/IdeaProjects/Assignment-3/.idea">
+        <parameter name="browser" value="edge"></parameter>
+        <parameter name="url" value="https://github.com/login "></parameter>
+        <classes>
+            <class name="org.example.AppTest"></class>
+        </classes>
+    </test>
+</suite>
